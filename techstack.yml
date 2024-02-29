@@ -2,7 +2,7 @@ repo_name: nabilbk/Highway-Driving
 report_id: 68b09562491e7a4029df0a7872e3fefe
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T11:07:08+00:00'
+timestamp: '2024-02-29T19:24:17+00:00'
 requested_by: OanaGaskey
 provider: github
 branch: master
@@ -72,7 +72,7 @@ tools:
   detection_source_url: https://github.com/nabilbk/Highway-Driving
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
